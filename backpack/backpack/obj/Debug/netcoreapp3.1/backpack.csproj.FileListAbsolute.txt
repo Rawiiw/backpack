@@ -1,0 +1,25 @@
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.csprojAssemblyReference.cache
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.AssemblyInfoInputs.cache
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.AssemblyInfo.cs
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.exe
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.deps.json
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.runtimeconfig.json
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.runtimeconfig.dev.json
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.dll
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.dll
+C:\Users\sk464\OneDrive\Рабочий стол\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.pdb
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.exe
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.deps.json
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.runtimeconfig.json
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.runtimeconfig.dev.json
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.dll
+E:\флешка\backpack\backpack\bin\Debug\netcoreapp3.1\backpack.pdb
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.csproj.AssemblyReference.cache
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.GeneratedMSBuildEditorConfig.editorconfig
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.AssemblyInfoInputs.cache
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.AssemblyInfo.cs
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.csproj.CoreCompileInputs.cache
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.dll
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.pdb
+E:\флешка\backpack\backpack\obj\Debug\netcoreapp3.1\backpack.genruntimeconfig.cache
